@@ -11,6 +11,19 @@ body {
     padding: 20px;
 }
 
+header {
+    background: red;
+}
+#about {
+    background: blue;
+}
+#courses{
+    background: yellow;
+}
+#contact {
+    background: green;
+
+
 nav ul{
     list-style: "";
     margin: 0;
@@ -32,4 +45,3 @@ nav ul li a:hover{
     background-color: #555;
     color: white;
     transform: scale(0.8); 
-}
