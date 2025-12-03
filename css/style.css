@@ -10,3 +10,26 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
+
+nav ul{
+    list-style: "";
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    margin: 0 20px;
+}
+nav ul li a{
+    color: blue;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 15px;
+    transform: scale(1.5);
+}
+nav ul li a:hover{
+    background-color: #555;
+    color: white;
+    transform: scale(0.8); 
+}
