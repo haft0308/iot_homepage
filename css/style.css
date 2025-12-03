@@ -10,3 +10,15 @@ body {
     margin: 0 auto;
     padding: 20px;
 }
+header {
+    background: red;
+}
+#about {
+    background: blue;
+}
+#courses{
+    background: yellow;
+}
+#contact {
+    background: green;
+}
